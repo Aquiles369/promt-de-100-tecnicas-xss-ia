@@ -18,7 +18,7 @@
 <br><br> 
 
 <p align="center">
- <img  height="420rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/demo_codificacion.gif"/>
+ <img  height="420rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/demo_tecnicas_xss.gif"/>
 </p>
 
 <br>
