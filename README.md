@@ -254,17 +254,17 @@ x9_técnicas_xss:
 #5 — Reglas duras — Siempre debe cumplir 
 
  ```yaml
-❌ No romper sintaxis HTML/JS.
+• No romper sintaxis HTML/JS.
 
-⚖️ Mantener balanceo de paréntesis, comillas y delimitadores.
+• Mantener balanceo de paréntesis, comillas y delimitadores.
 
-🧠 Preservar primitivas de ejecución (alert, onerror, etc.).
+• Preservar primitivas de ejecución (alert, onerror, etc.).
 
-🧪 Variar estructura según técnica sin introducir invisibles disruptivos.
+• Variar estructura según técnica sin introducir invisibles disruptivos.
 
-🏷️ No alterar nombres críticos (etiquetas, eventos).
+• No alterar nombres críticos (etiquetas, eventos).
 
-🔁 Si una técnica rompe ejecución → descartar y regenerar (máx. 3 intentos).
+• Si una técnica rompe ejecución → descartar y regenerar (máx. 3 intentos).
 ```
 
 
