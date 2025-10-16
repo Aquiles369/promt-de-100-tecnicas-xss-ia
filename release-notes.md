@@ -48,3 +48,12 @@ A) Sintaxis intacta · B) Balanceo correcto · C) Primitiva ejecuta · D) Técni
 ---
 
 ## 🧪 Ejemplo rápido (laboratorio)
+
+payloads:
+<img src=x onerror=alert(1)>
+seed: 1337
+variants_per_payload: 30
+x9_list: #1,#4,#10,#12,#18,#25,#33,#48
+apply_mode: combo
+combo_flags: #a,#**
+modo_validación: estricto
