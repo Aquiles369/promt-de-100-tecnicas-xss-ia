@@ -14,7 +14,7 @@
  ### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFvYmR6eXpjMHNpNGlqcGtncndtOWdyeHQyM2Q2bWw5aWN1dXV3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ya34zNmLFEftuPlnsf/giphy.gif" width = 75px>  </picture> Promt de 100 técnicas xss + ia
 <br>
 
- **Motor generador de payloads XSS con +110 técnicas modernas y legacy. Automatiza bypasses, evasiones y variantes ofensivas para investigación y laboratorio.** 
+ **Motor generador de payloads XSS con +110 técnicas modernas y legacy. Automatiza bypasses, evasiones y variantes ofensivas para investigación y laboratorio, <a href="https://www.youtube.com/watch?v=Ng2fwy8tM4Y" target="_blank" rel="noopener">demo Youtube</a>** 
 <br><br> 
 
 <p align="center">
